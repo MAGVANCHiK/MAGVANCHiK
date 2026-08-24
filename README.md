@@ -5,7 +5,7 @@ Backend & Automation Developer focused on high-performance data processing and c
 #### Tech Stack
 
 - **Languages:**
-[![Rust](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)]
+[![Rust](https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg?width=80&height=80)]
 - **Hardware & Microcontrollers:** ESP32 (HID / BadUSB / WLED)
 
 #### Focus Area
