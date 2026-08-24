@@ -1,12 +1,11 @@
 ### I'm Ivan
 
-Backend & Automation Developer focused on high-performance data processing, custom network tooling, and low-level systems.
+Backend & Automation Developer focused on high-performance data processing and custom network tooling.
 
 #### Tech Stack
 
-- **Languages:** Rust, Python, TypeScript
-- **Databases & Async:** ClickHouse, Tokio, Serde
-- **Systems & Linux:** Debian/Arch, Docker, Xray / REALITY protocols
+- **Languages:**
+[![Rust](https://githubusercontent.com)](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
 - **Hardware & Microcontrollers:** ESP32 (HID / BadUSB / WLED)
 
 #### Focus Area
